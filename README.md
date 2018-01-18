@@ -9,7 +9,7 @@ webcam device if it's not /dev/video0 as well as identify the location of your X
 
 This is primarily a PoC and is intended to work in a Fedora 27 container on Fedora 27.
 
-To build, simply run `make`. Onece successful, run `make browser` to launch the browser. If you
+To build, simply run `make`. Once successful, run `make browser` to launch the browser. If you
 need a shell in the container to troubleshoot, run `make shell`. Obviously requires make.
 
 Many thanks to https://github.com/sameersbn/docker-browser-box and the folks at bluejeans for
